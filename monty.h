@@ -1,7 +1,7 @@
 #ifndef MONTY_H
 #define MONTY_H
-#ifndef _POSIX_C_SOURCE 200809L
-#define _POSIX_C_SOURCE 200809L
+#ifndef _POSIX_C_SOURCE 
+#define _POSIX_C_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/types.h>
